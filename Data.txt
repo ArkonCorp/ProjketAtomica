@@ -1,2 +1,2 @@
-City1, Blue
-City2, Green
+| City1, 1
+| City2, 2
